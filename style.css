@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#profile-container{
+    max-width: 30px;
+    margin: 8px auto;
+    background-color: beige;
+    border: 3px solid wheat;
+    border-radius: 5px;
+}
+
+#profile-pic{
+    width: 10%;
+    height: auto;
+}
+
+#profile-name{
+    text-align: center;
+}
